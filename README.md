@@ -15,7 +15,7 @@ King James, The Chosen One, The Akron Hammer are just some of the "aka" names Le
 
 ```
 1.	Which player is more efficient over the span of a career regradless if they're playing or not?
-2.	What possible predictions could one come up with based on player offensive and defensive effectiveness.
+2.	What possible predictions could one come up with based on player offensive and defensive effectiveness?
 ```
 
 To be able to answer these questions I had to collect data from  [basketball-refrence ](https://www.basketball-reference.com/), which is a data source that has any an
