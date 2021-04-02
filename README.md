@@ -18,7 +18,7 @@ King James, The Chosen One, The Akron Hammer are just some of the "aka" names Le
 2.What possible predictions could one come up with based on player offensive and defensive effectiveness?
 ```
 
-To answer these questions, I had to collect data from [basketball-reference] (https://www.basketball-reference.com/), which is a data source that deals with anything related to basketball.  I was able to aggragate raw data “Advanced Stats excel spreadsheet" and use Tableau to clean and visulize the data for better insight. 
+To answer these questions, I had to collect data from [basketball-reference](https://www.basketball-reference.com/), which is a data source that deals with anything related to basketball.  I was able to aggragate raw data “Advanced Stats excel spreadsheet" and use Tableau to clean and visulize the data for better insight. 
 
 ---
 
