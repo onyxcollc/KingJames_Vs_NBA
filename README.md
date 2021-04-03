@@ -28,11 +28,11 @@ To answer these questions, I had to collect data from [basketball-reference](htt
 Using Tableau’s tree map feature, puts into perspective on how efficient players where/are through there career. Michael Jordan, with all his greatness is the bar that every player should strive for, coming in at a 27.92 PER (player efficiency rating) which is the highest in NBA & ABA history. LeBron is not far behind with a 27.41 PER, but one would have to wonder if it’s possible for LeBron to ever top Michael in this category with LeBron’s lack of effort in the free throw department.
 
 #### Triple A 
-These 3 men have single handedly carved their own paths in the NBA history books. What’s so interesting about this is that Kevin Durant 25.21 PER and James Harden 24.83 PER are both in the top 10 of all time efficiency rating, Durant being number 8 and Harden respectfully 10. Stephen Curry 23.91 PER being the lethal 3-point shooter that he is came in at 16.
+These 3 men have single handedly carved their own paths in the NBA history books. What’s so interesting about this is that Kevin Durant 25.21 PER and James Harden 24.83 PER are both in the top 10 of all time efficiency rating, Durant being number 8 and Harden respectfully 10. Stephen Curry 23.91 PER being the lethal 3-point shooter that he is came in at 16th spot.
 
 #### Mamba
 This section was hard to write, but here goes. 
-What surprised me the most from this graph had to be Kobe Bryant 22.90 PER coming in the 27th spot on the list.  With his 5-time NBA championship, 2 scoring titles, 18 All Star appearance, 12-time Defensive titles, 15-time All NBA team, 4 MVPs, and 2 Finals MVP is all we could ever ask for. Kobe has impacted all sports enthusiasts from all walks of life with what he brought to the table which was his Mamba mentality, but what Kobe has truly impacted is our hearts and the love for the game. Just wanted to say thank you Kobe for allowing us to witness your best and being an example to us all. 
+What surprised me the most from this graph had to be Kobe Bryant's 22.90 PER, coming in the 27th spot on the list. With his 5-time NBA championship, 2 scoring titles, 18 All Star appearance, 12-time Defensive titles, 15-time All NBA team, 4 MVPs, and 2 Finals MVP he's done more then what we could ever ask for. Don't forget the 81pt game at home,and  a 60pt game to end his career at home. Kobe has impacted all sports enthusiasts from all walks of life with what he brought to the table, which was the Mamba mentality. Kobe has truly impacted our hearts and the love for the game of basketball. Just wanted to say thank you Kobe for allowing us to witness your greatness, and being an example to us all. 
 
 ---
 
@@ -42,4 +42,17 @@ What surprised me the most from this graph had to be Kobe Bryant 22.90 PER comin
 
 
 <img src="Images/O_Impact.PNG" width ="800" />
+
+ Looking at these offensive stats you can already see how Curry takes top spot in the first two columns True Shooting at .624% and 3-point at .486%. Free Throw ratings shows Harden is at the top spot with .522% which tells us he knows how to draw fouls but seems to turn over the ball at a remarkably high rate 15.3%. Jordan knew how to take care of the ball with a 9.3% rating in turn overs and he was also a monster on the offensive rebounds over taking James with a 4.7% rating. Some of the best passes we’ve seen in the game today has definitely come from James and it shows, leading the pack with a 36.6% assist rating and an offensive win share of 168.9 .  Jordan, James, and Curry are all tied for leading in certain categories, and what does that tell us? Certain players are built specifically for impact. Curry is an anomaly that comes but once in a lifetime, James is perfect hybrid athlete that any mad scientist would take great pride in, and Jordan who’s damn there perfect shooting stroke wins him 2 hats tricks in a single career. Let’s see how everyone stacks up on the defensive end. 
+
+---
+
+## Defensive Impact
+
+<img src="Images/D_Impact.PNG" width ="800" />
+
+
+
+
+
 
