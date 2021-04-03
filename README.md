@@ -43,7 +43,7 @@ What surprised me the most from this graph had to be Kobe Bryant's 22.90 PER, co
 
 <img src="Images/O_Impact.PNG" width ="800" />
 
- Looking at these offensive stats you can already see how Curry takes top spot in the first two columns True Shooting at .624% and 3-point at .486%. Free Throw ratings shows Harden is at the top spot with .522% which tells us he knows how to draw fouls but seems to turn over the ball at a remarkably high rate 15.3%. Jordan knew how to take care of the ball with a 9.3% rating in turn overs and he was also a monster on the offensive rebounds over taking James with a 4.7% rating. Some of the best passes we’ve seen in the game today has definitely come from James and it shows, leading the pack with a 36.6% assist rating and an offensive win share of 168.9 .  Jordan, James, and Curry are all tied for leading in certain categories, and what does that tell us? Certain players are built specifically for impact. Curry is an anomaly that comes but once in a lifetime, James is perfect hybrid athlete that any mad scientist would take great pride in, and Jordan who’s damn there perfect shooting stroke wins him 2 hats tricks in a single career. Let’s see how everyone stacks up on the defensive end. 
+ Looking at these offensive stats you can already see how Curry takes top spot in the first two columns True Shooting at .624% and 3-point at .486%. Free Throw ratings shows Harden is at the top spot with .522% which tells us he knows how to draw fouls but seems to turn over the ball at a remarkably high rate 15.3%. Jordan knew how to take care of the ball with a 9.3% rating in turn overs and he was also a monster on the offensive rebounds over taking James with a 4.7% rating. Some of the best passes we’ve seen in the game today has definitely come from James and it shows, leading the pack with a 36.6% assist rating and an offensive win share of 168.9 .  Jordan, James, and Curry are all tied for leading in certain categories, and what does that tell us? Certain players are built specifically for impact. Curry is an anomaly that comes but once in a lifetime, James is perfect hybrid athlete that any mad scientist would take great pride in, and Jordan who’s damn there perfect shooting stroke wins him 2 hat tricks in a single career. Let’s see how everyone stacks up on the defensive end. 
 
 ---
 
@@ -51,7 +51,9 @@ What surprised me the most from this graph had to be Kobe Bryant's 22.90 PER, co
 
 <img src="Images/D_Impact.PNG" width ="800" />
 
+Durant’s defensive reactions are A1 as it pertains to blocking, he holds the top spot with a 2.3% blocking rating. I was surprised to see Jordan’s defensive rebound rating at a 14.1% because on the offensive end he is the best at rebounding. Looks like Jordan focused more of his energy on man-to-man defense because his steal rating was the best of any at 3.1%. James’s defensive rebound rating 18.6% is the best in the group he also leads in two other categories total rebounds 11.3%, and defense win shares 73.2 . James has shown why he is called the Chosen One, dominating in three categories. This just showcases how impactful James is as a player which we’ve never seen before in NBA history. He cannot be duplicated, and that’s fact. 
 
+---
 
 
 
