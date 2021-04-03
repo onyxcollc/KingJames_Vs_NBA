@@ -62,5 +62,19 @@ Durant’s defensive reactions are A1 as it pertains to blocking, he holds the t
  
  <img src="Dash_Board.PNG" width ="800" />
  
+---
+
+I really hope you enjoyed this project and some of the Tableau skills showen today. I do plan on building more projects following this one.
+So, until next time...
+
+
+
+---
+### Created by
+
+__Nicholas Olumese__, Profile: [LinkedIn](https://www.linkedin.com/in/nicholas-olumese/)
+
+
+
  
 
