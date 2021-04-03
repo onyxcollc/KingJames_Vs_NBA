@@ -34,7 +34,12 @@ These 3 men have single handedly carved their own paths in the NBA history books
 This section was hard to write, but here goes. 
 What surprised me the most from this graph had to be Kobe Bryant 22.90 PER coming in the 27th spot on the list.  With his 5-time NBA championship, 2 scoring titles, 18 All Star appearance, 12-time Defensive titles, 15-time All NBA team, 4 MVPs, and 2 Finals MVP is all we could ever ask for. Kobe has impacted all sports enthusiasts from all walks of life with what he brought to the table which was his Mamba mentality, but what Kobe has truly impacted is our hearts and the love for the game. Just wanted to say thank you Kobe for allowing us to witness your best and being an example to us all. 
 
+---
+
+## Offensive Impact 
+   
+   Tableau always for sorting of columns and rows in the order that would best suit the needs of the insight.  The data collected “Advanced Stats” had offensive and defensive stats all mixed on one table.  What I now did was build  two data frames that consist of individual stats offense and defense.
 
 
-
+<img src="Images/Player_Efficiency_Tree_Graph.PNG" width ="800" />
 
