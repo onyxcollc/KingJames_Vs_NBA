@@ -38,7 +38,7 @@ What surprised me the most from this graph had to be Kobe Bryant's 22.90 PER, co
 
 ## Offensive Impact 
    
-   Tableau allows for sorting of columns and rows in the order that would best suit the needs of the insight.  The data collected “Advanced Stats” had offensive and defensive career stats all mixed into one table.  What I now did was build  two data frames that consist of individual stats offense and defense.
+   Tableau allows for sorting of columns and rows in the order that would best suit the needs of the insight.  The data collected “Advanced Stats” had offensive and defensive career stats all mixed into one table. My next steps where build two data frames that consist of individual stats offense and defense.
 
 
 <img src="Images/O_Impact.PNG" width ="800" />
