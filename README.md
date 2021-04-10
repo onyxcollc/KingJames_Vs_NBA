@@ -77,6 +77,7 @@ So, until next time...
 __Nicholas Olumese__, Profile: [LinkedIn](https://www.linkedin.com/in/nicholas-olumese/)
 
 
+ [Link to NBA Project 2   Chef Curry Shot Chart  ](https://github.com/onyxcollc/Chef_Curry_2015-16_shotchart)
 
  
 
