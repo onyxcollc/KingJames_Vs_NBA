@@ -58,7 +58,7 @@ Durant’s defensive reactions are A1 as it pertains to blocking, he holds the t
 
 ## Dashboard Creation 
 
- Checkout my Tableau link --> [tableau_public](https://public.tableau.com/profile/nicholas.olumese#!/vizhome/KingJamesVNBA/NBA_Analysis)
+ Tableau link --> [tableau_public](https://public.tableau.com/profile/nicholas.olumese#!/vizhome/KingJamesVNBA/NBA_Analysis)
 
 
 Tableau has a feature called dashboard which allows you to view your data all on one screen. You are also able to create highlights, that helps reference information in the data set with just one click.
